@@ -11,6 +11,10 @@ The site's design and functionality are geared towards boosting online sales by 
 
 ![jovich acceuil](images/1.png)
 
-login page : 
+Login page : 
 
 ![jovich acceuil](images/4.png)
+
+Articles on Clothes:
+
+![jovich acceuil](images/2.png)
